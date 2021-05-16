@@ -1,0 +1,3 @@
+﻿换镜像站点：pip3 config set global.index-url https://mirrors.aliyun.com/pypi/simple/
+
+安装库（pyinstaller等）报错：pip3 install wheel
